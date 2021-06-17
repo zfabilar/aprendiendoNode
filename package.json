@@ -1,0 +1,27 @@
+{
+  "name": "aprendiendonode",
+  "version": "1.0.0",
+  "description": "Entrenando pa la chamba",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfabilar/aprendiendoNode.git"
+  },
+  "keywords": [
+    "aprendiendo",
+    "node"
+  ],
+  "author": "zfabilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfabilar/aprendiendoNode/issues"
+  },
+  "homepage": "https://github.com/zfabilar/aprendiendoNode#readme"
+}
